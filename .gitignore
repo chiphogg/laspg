@@ -1,0 +1,14 @@
+.changes
+*.dat
+README.txt
+*.gif
+animate.R
+atom-figure_2012-05-04/
+compare_fcc-200A_rmc-32A.txt
+gSTLFilt.pl
+gfilt
+gstlfilt.tar
+oneshot_animate
+output
+samples.tar
+g_of_r
